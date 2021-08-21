@@ -19,6 +19,7 @@
 
 .Logo {
     height: 80%;
+    margin-right: 30px;
 }
 
 @media (max-width: 499px) {
